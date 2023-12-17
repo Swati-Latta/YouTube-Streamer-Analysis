@@ -37,3 +37,12 @@ In summary, this analysis delivers a brief yet thorough insight into YouTube str
 ### Language Used: Python
 
 I express profound gratitude for the consistent support and mentorship provided by the InternCareer team. Their expertise and encouragement have played a crucial role in contributing to my success.
+
+
+
+# <img src="https://user-images.githubusercontent.com/106439762/181935629-b3c47bd3-77fb-4431-a11c-ff8ba0942b63.gif" width="48" height="48"> **User's Manual**
+
+| Files| Description |
+| -------------   | ------------- |
+| **titanic_train_csv**  | This CSV file contains the data set of titanic tragedy.  |
+| **ML_PROJECT(LOGISTIC_REGRESSION)** | This  ipynb file contains the ML MODEL code. |
