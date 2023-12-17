@@ -46,3 +46,17 @@ I express profound gratitude for the consistent support and mentorship provided 
 | -------------   | ------------- |
 | **youtubers_df.csv**  | This CSV file contains the data set of Youtube Streamer.  |
 | **YouTube Streamer Analysis.ipynb** | This  ipynb file contains the python code. |
+
+
+ # <img src="https://user-images.githubusercontent.com/106439762/181937125-2a4b22a3-f8a9-4226-bbd3-df972f9dbbc4.gif" width="48" height="48" > Quick Start
+
+
+    1. Started with downloading the data from given email from Inrencareer.
+    
+    2. Load the data into Python Jyputer Notebook for further analysis. 
+    
+    3. Did the Data cleaning(EDA) part with the help of Pandas and NumPy.
+    
+    4. Performed in depth analysis of the data using charts and Created different charts from the data for better understanding of the data.
+    
+    <br>
