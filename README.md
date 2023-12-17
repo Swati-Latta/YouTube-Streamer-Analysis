@@ -44,5 +44,5 @@ I express profound gratitude for the consistent support and mentorship provided 
 
 | Files| Description |
 | -------------   | ------------- |
-| **titanic_train_csv**  | This CSV file contains the data set of titanic tragedy.  |
-| **ML_PROJECT(LOGISTIC_REGRESSION)** | This  ipynb file contains the ML MODEL code. |
+| **youtubers_df_csv**  | This CSV file contains the data set of Youtube Streamer.  |
+| **YouTube Streamer Analysis.ipynb** | This  ipynb file contains the python code. |
