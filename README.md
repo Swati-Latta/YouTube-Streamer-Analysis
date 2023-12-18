@@ -11,7 +11,7 @@ Your task is to perform a comprehensive
 analysis of the dataset to extract insights
 about the top YouTube content creators.
 
-https://www.google.com/imgres?imgurl=https%3A%2F%2Fcdn.mos.cms.futurecdn.net%2F8gzcr6RpGStvZFA2qRt4v6-1200-80.jpg&imgrefurl=https%3A%2F%2Fwww.creativebloq.com%2Fnews%2Fyoutube-logo-history&docid=BkKMIFDu9w0sgM&tbnid=LVNfi3nMk4qZnM&vet=12ahUKEwjd98Dwt5mDAxWYzDgGHXTECOwQM3oECA4QAA..i&w=650&h=365&ved=2ahUKEwjd98Dwt5mDAxWYzDgGHXTECOwQM3oECA4QAA
+
 
 #### Contains Tasks done under InternCareer Data Analyst Internship.
 
