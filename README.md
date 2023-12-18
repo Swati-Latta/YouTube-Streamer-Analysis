@@ -59,7 +59,7 @@ I express profound gratitude for the consistent support and mentorship provided 
 
 9.Brands & Collaboration- Plotting a scatter plot to visualize the relationship between performance and number of 'Likes' or 'Comments'
 
-10.Benchmarking- Sorting & Display of the top performing Content creators by a specific metric(in terms of subscribers, visits, likes, and comments)*
+10.Benchmarking- Sorting & Display of the top performing Content creators by a specific metric(in terms of subscribers, visits, likes, and comments)
 
     
   ## *It was an amazing experience thank you InternCareer for this opportunity.*
