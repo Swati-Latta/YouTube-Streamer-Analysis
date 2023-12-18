@@ -19,18 +19,8 @@ We have been provided with a dataset that contains valuable information about th
 
 ### Batch:  December 15, 2023 to Jaunary 15,2024
 
-### The steps include:
 
-1.Importing the Necessary Libraries
-2.Loading the Dataset
-3.Data Understanding
-4.Trend Analysis using Bar Plot & Correlation Matrix
-5.Audience Study using Heatmap to visualize the distribution of content categories by country
-6.Performance Metrics using a Sunburst Plot to visualize the metrics(average number of subscribers, visits, likes, and comments)
-7.Content Categories- Sorting & then creating a horizontal bar chart to visualize the distribution of content categories
-8.Creating Category-wise SubPlots for Likes & Comments
-9.Brands & Collaboration- Plotting a scatter plot to visualize the relationship between performance and number of 'Likes' or 'Comments'
-10.Benchmarking- Sorting & Display of the top performing Content creators by a specific metric(in terms of subscribers, visits, likes, and comments)
+
 
 In summary, this analysis delivers a brief yet thorough insight into YouTube streaming trends, audience dynamics, and key success factors.
 
@@ -51,12 +41,16 @@ I express profound gratitude for the consistent support and mentorship provided 
  # <img src="https://user-images.githubusercontent.com/106439762/181937125-2a4b22a3-f8a9-4226-bbd3-df972f9dbbc4.gif" width="48" height="48" > Quick Start
 
 
-    1. Started with downloading the data from given email from Inrencareer.
-    
-    2. Load the data into Python Jyputer Notebook for further analysis. 
-    
-    3. Did the Data cleaning(EDA) part with the help of Pandas and NumPy.
-    
-    4. Performed in depth analysis of the data using charts and Created different charts from the data for better understanding of the data.
+*1.Importing the Necessary Libraries
+2.Loading the Dataset
+3.Data Understanding
+4.Trend Analysis using Bar Plot & Correlation Matrix
+5.Audience Study using Heatmap to visualize the distribution of content categories by country
+6.Performance Metrics using a Sunburst Plot to visualize the metrics(average number of subscribers, visits, likes, and comments)
+7.Content Categories- Sorting & then creating a horizontal bar chart to visualize the distribution of content categories
+8.Creating Category-wise SubPlots for Likes & Comments
+9.Brands & Collaboration- Plotting a scatter plot to visualize the relationship between performance and number of 'Likes' or 'Comments'
+10.Benchmarking- Sorting & Display of the top performing Content creators by a specific metric(in terms of subscribers, visits, likes, and comments)*
+
     
   ## *It was an amazing experience thank you InternCareer for this opportunity.*
