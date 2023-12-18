@@ -11,7 +11,7 @@ Your task is to perform a comprehensive
 analysis of the dataset to extract insights
 about the top YouTube content creators.
 
-
+![Youtube logo](https://github.com/Swati-Latta/YouTube-Streamer-Analysis/assets/134490572/d689988b-15dc-413d-a46f-464ab5416a21)
 
 #### Contains Tasks done under InternCareer Data Analyst Internship.
 
